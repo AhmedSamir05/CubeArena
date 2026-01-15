@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf7219bab7fe46a1ad266029b2fee19, type: 3}
+  m_Name: Readme
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: 727a75301c3d24613a3ebcec4a24c2c8, type: 3}
+  title: CubeArena
+  sections:
+  - heading: Welcome to CubeArena
+    text: CubeArena is a fast-paced arena-style game built using the Universal Render Pipeline. This project is a task for PraxiLabs. Use WASD to control, mouse click to hit enemies, we have two types of enemies, week and strong.
+    linkText:
+    url:
+  - heading: Assets Used
+    text: This project uses third-party assets from the Unity Asset Store.
+    linkText: Free Fly Camera
+    url: https://assetstore.unity.com/packages/tools/camera/free-fly-camera-140739
+	linkText: Cinematic Explosions FREE
+    url: https://assetstore.unity.com/packages/vfx/particles/fire-explosions/cinematic-explosions-free-257086
+
+  loadedLayout: 1
